@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 
-
 double perimiter(double a, double b, double c)
 {
 	double per;
