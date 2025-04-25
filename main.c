@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include "rascheti.h"
-
 int main() {
     double a, b, c;
 
